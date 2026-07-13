@@ -1,19 +1,6 @@
-# PyCharm
 .idea/
-
-# Python
 __pycache__/
-*.pyc
-
-# Database
-*.sqlite3
-*.db3
-
-# Virtual environments
+*.py[cod]
+db.sqlite3
 venv/
 .venv/
-env/
-
-# OS
-.DS_Store
-Thumbs.db
